@@ -22,6 +22,6 @@ hero_media = "/img/portrait.webp"
 
 +++
 
-# My name is **Sponge Bob** and I'm a **chief cook**.
+# My name is **Dean Brunt** and I'm a **Site Reliability Engineer**.
 
-All my dishes are made with love
+All my code is made with love
